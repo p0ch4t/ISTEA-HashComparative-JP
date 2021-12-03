@@ -12,7 +12,7 @@ Instalacion:
 
 1. Instale docker
 2. Clone el repositorio actual
-2. Ejecute el comando: "docker build -t hashcomparative" para armar la imagen
+2. Ejecute el comando: "docker build -t hashcomparative ." para armar la imagen
 3. Ejecute el comando: "docker run -it hashcomparative" para lanzar el programa
 
 Uso:
