@@ -1,0 +1,8 @@
+BPMS
+db2inst1
+db2pass
+db2pw
+db2password
+dasusr1
+db2fenc1
+db2admin
